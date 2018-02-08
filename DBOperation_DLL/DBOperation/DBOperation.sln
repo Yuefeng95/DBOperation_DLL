@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBOperation", "DBOperation\DBOperation.csproj", "{502ADC35-9267-4746-A254-0ED2389E9EA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502ADC35-9267-4746-A254-0ED2389E9EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502ADC35-9267-4746-A254-0ED2389E9EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502ADC35-9267-4746-A254-0ED2389E9EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502ADC35-9267-4746-A254-0ED2389E9EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {294DE190-D5D2-4664-90AE-6255837CA4A4}
+	EndGlobalSection
+EndGlobal

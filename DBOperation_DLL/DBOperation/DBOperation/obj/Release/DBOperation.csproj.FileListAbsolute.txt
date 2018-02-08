@@ -1,0 +1,5 @@
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\bin\Release\DBOperation.dll
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\bin\Release\DBOperation.pdb
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Release\DBOperation.csproj.CoreCompileInputs.cache
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Release\DBOperation.dll
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Release\DBOperation.pdb
