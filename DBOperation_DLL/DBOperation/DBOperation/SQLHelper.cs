@@ -23,17 +23,17 @@
 // ==============================================================================
 
 using System;
-using System.Data;
-using System.Xml;
-using System.Data.SqlClient;
 using System.Collections;
+using System.Data;
+using System.Data.SqlClient;
+using System.Xml;
 
 namespace Microsoft.ApplicationBlocks.Data
 {
-	/// <summary>
-	/// The SqlHelper class is intended to encapsulate high performance, scalable best practices for 
-	/// common uses of SqlClient
-	/// </summary>
+    /// <summary>
+    /// The SqlHelper class is intended to encapsulate high performance, scalable best practices for 
+    /// common uses of SqlClient
+    /// </summary>
     public sealed class SqlHelper
     {
         #region private utility methods & constructors

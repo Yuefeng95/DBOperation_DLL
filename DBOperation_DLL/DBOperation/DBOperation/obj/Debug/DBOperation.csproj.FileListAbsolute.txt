@@ -1,6 +1,6 @@
 D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\bin\Debug\DBOperation.dll
 D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\bin\Debug\DBOperation.pdb
-D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Debug\DBOperation.csprojResolveAssemblyReference.cache
 D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Debug\DBOperation.csproj.CoreCompileInputs.cache
 D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Debug\DBOperation.dll
 D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Debug\DBOperation.pdb
+D:\Project\C#Winform\DBOperation_DLL\DBOperation\DBOperation\obj\Debug\DBOperation.csprojResolveAssemblyReference.cache
